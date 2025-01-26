@@ -4,8 +4,11 @@ Bridging the digital divide by analyzing school network performance across under
 Key Features:
 
 User-Friendly Interface: Select a country and school to analyze its connectivity metrics.
+
 Real-Time Insights: Evaluate latency, upload speed, and download speed.
+
 Actionable Solutions: Suggest improvements for connectivity and foster development.
+
 🌍 Problem Statement:
 Many schools in low-developed countries struggle with high latency and poor network speeds, affecting productivity and national development.
 
