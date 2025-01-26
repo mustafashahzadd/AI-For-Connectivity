@@ -19,8 +19,11 @@ It predicts connectivity issues and suggests optimized metrics for improvement.
 
 🛠️ Technologies Used:
 
-Data Analysis & Visualization: Pandas, Matplotlib.
-Data Retrieval: FAISS, SentenceTransformer, NumPy.
-Predictive Analytics: Groq API, Llama-3.3-70b-Versatile.
+1. Data Analysis & Visualization: Pandas, Matplotlib.
+
+2. Data Retrieval: FAISS, SentenceTransformer, NumPy.
+
+3. Predictive Analytics: Groq API, Llama-3.3-70b-Versatile.
+
 Impact:
 This project empowers schools with the tools to improve their network performance, enabling better educational outcomes and fostering long-term developmen
